@@ -2,4 +2,8 @@ Sabse phle to ek repo bnao jisme alag alag lang me application code ki hui ho.
 jisko jb bhi tere ko kisi code ko deploy karna hoga to just vhaa se code clone kr project me copy kar and us project par work kar. 
 
     Create repo like:
-              
+              Material: Iske andar tuje 3-4 diffrent code application rakhi hogi, jisko deploy karne ka
+                    Ex. NodeJS_Notes_Material
+                        Notes:    Isme tu apni notes rakh sakta hai Like Shared Lib.
+                        Python_Flask_Material
+                        
