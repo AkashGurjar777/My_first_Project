@@ -1,1 +1,5 @@
+Sabse phle to ek repo bnao jisme alag alag lang me application code ki hui ho.
+jisko jb bhi tere ko kisi code ko deploy karna hoga to just vhaa se code clone kr project me copy kar and us project par work kar. 
 
+    Create repo like:
+              
